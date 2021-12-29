@@ -14,3 +14,4 @@ En futuras versiones está previsto agregar las siguientes funcionalidades:
 - Sonido de reloj mientras estás en un pomodoro.
 - Posibilidad de agregar tareas nuevas a toodledo.
 - Mejoras en la sincronización con toodledo.
+
